@@ -1,6 +1,6 @@
 # Data Driven Facts
-Attempting to debunk "fake news" claims as I see them online with data science and statistical analysis techniques. 
+Attempting to debunk "fake news" reports with data science and statistical analysis techniques. 
 
-## 1. Voter fraud potentially exists in battle ground states such as Michigan and Georgia because the proportion of Democrat empty votes down ballot compared to Republican empty votes down ballot is highly skewed. 
-Source:
+## 1. Voter fraud in Michigan and Georgia
+Source: 
 Analysis:Blank Ballot Analysis.ipynb
